@@ -1,19 +1,10 @@
 #EXTM3U x-tvg-url="https://epg.zbds.top"
-#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="内蒙古卫视" tvg-logo="https://livecdn.zbds.top/logo/内蒙古卫视.png" epg-url="https://epg.zbds.top",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
-#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="青海卫视" tvg-logo="https://livecdn.zbds.top/logo/青海卫视.png" epg-url="https://epg.zbds.top",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="西藏卫视" tvg-logo="https://livecdn.zbds.top/logo/西藏卫视.png" epg-url="https://epg.zbds.top",西藏卫视
-http://php.jdshipin.com:8880/xztv.php?id=ws
-#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="人间卫视" tvg-logo="https://livecdn.zbds.top/logo/人间卫视.png" epg-url="https://epg.zbds.top",人间卫视
+
+#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="清朝" tvg-logo="https://livecdn.zbds.top/logo/人间卫视.png" epg-url="https://epg.zbds.top",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="香港卫视" tvg-logo="https://livecdn.zbds.top/logo/香港卫视.png" epg-url="https://epg.zbds.top",香港卫视
+#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="著名" tvg-logo="https://livecdn.zbds.top/logo/香港卫视.png" epg-url="https://epg.zbds.top",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="安多卫视" tvg-logo="https://livecdn.zbds.top/logo/安多卫视.png" epg-url="https://epg.zbds.top",安多卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="延边卫视" tvg-logo="https://livecdn.zbds.top/logo/延边卫视.png" epg-url="https://epg.zbds.top",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="重温经典" tvg-logo="https://livecdn.zbds.top/logo/重温经典.png" epg-url="https://epg.zbds.top",重温经典
+#EXTINF:-1 group-title="📽清朝著名莲子" tvg-name="莲子" tvg-logo="https://livecdn.zbds.top/logo/重温经典.png" epg-url="https://epg.zbds.top",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 group-title="中央卫视" tvg-name="CCTV1" tvg-logo="https://livecdn.zbds.top/logo/CCTV1.png" epg-url="https://epg.zbds.top",CCTV1
 http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
@@ -5049,37 +5040,4 @@ https://vip1.lz-cdn7.com/20230208/14034_20893860/index.m3u8
 https://vip1.lz-cdn7.com/20230207/14021_7244ab08/index.m3u8
 #EXTINF:-1 group-title="电影频道" tvg-name="深海潜龙2005(美国动作片)" tvg-logo="https://livecdn.zbds.top/logo/深海潜龙2005(美国动作片).png" epg-url="https://epg.zbds.top",深海潜龙2005(美国动作片)
 https://vip1.lz-cdn7.com/20230207/14020_d34e3641/index.m3u8
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="香蕉" tvg-logo="https://livecdn.zbds.top/logo/香蕉.png" epg-url="https://epg.zbds.top",香蕉
-http://s.mrw.so/94E7W
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="惊艳" tvg-logo="https://livecdn.zbds.top/logo/惊艳.png" epg-url="https://epg.zbds.top",惊艳
-http://suo.im/8odLv
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="潘多拉" tvg-logo="https://livecdn.zbds.top/logo/潘多拉.png" epg-url="https://epg.zbds.top",潘多拉
-http://suo.im/6TuSG
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="彩虹电影" tvg-logo="https://livecdn.zbds.top/logo/彩虹电影.png" epg-url="https://epg.zbds.top",彩虹电影
-http://suo.im/9sOLD
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="松视1" tvg-logo="https://livecdn.zbds.top/logo/松视1.png" epg-url="https://epg.zbds.top",松视1
-http://suo.im/c4FP2
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="松视2" tvg-logo="https://livecdn.zbds.top/logo/松视2.png" epg-url="https://epg.zbds.top",松视2
-http://b.mtw.so/6pAjsB
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="松视3" tvg-logo="https://livecdn.zbds.top/logo/松视3.png" epg-url="https://epg.zbds.top",松视3
-http://suo.im/9wiS2
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="pigoo" tvg-logo="https://livecdn.zbds.top/logo/pigoo.png" epg-url="https://epg.zbds.top",pigoo
-http://s.mrw.so/7DlBI
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="极限" tvg-logo="https://livecdn.zbds.top/logo/极限.png" epg-url="https://epg.zbds.top",极限
-http://suo.im/aD7Ry
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="松视1台" tvg-logo="https://livecdn.zbds.top/logo/松视1台.png" epg-url="https://epg.zbds.top",松视1台
-http://18.svi-studio.com:8880/live/584830114073/800309151021/5.m3u8
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="松视2台" tvg-logo="https://livecdn.zbds.top/logo/松视2台.png" epg-url="https://epg.zbds.top",松视2台
-http://18.svi-studio.com:8880/live/917952932058/953281067271/6.m3u8
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="松视3台" tvg-logo="https://livecdn.zbds.top/logo/松视3台.png" epg-url="https://epg.zbds.top",松视3台
-http://18.svi-studio.com:8880/live/271871095922/006886711863/20205.m3u8
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="松视3台" tvg-logo="https://livecdn.zbds.top/logo/松视3台.png" epg-url="https://epg.zbds.top",松视3台
-https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="香蕉台" tvg-logo="https://livecdn.zbds.top/logo/香蕉台.png" epg-url="https://epg.zbds.top",香蕉台
-http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="麻豆" tvg-logo="https://livecdn.zbds.top/logo/麻豆.png" epg-url="https://epg.zbds.top",麻豆
-http://125.227.210.55:51359/VideoInput/play.ts
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="彩虹🌈玩美台" tvg-logo="https://livecdn.zbds.top/logo/彩虹🌈玩美台.png" epg-url="https://epg.zbds.top",彩虹🌈玩美台
-http://18.svi-studio.com:8880/live/624372101145/418430465490/3.m3u8
-#EXTINF:-1 group-title="会员频道_123321" tvg-name="彩虹🌈惊艳台" tvg-logo="https://livecdn.zbds.top/logo/彩虹🌈惊艳台.png" epg-url="https://epg.zbds.top",彩虹🌈惊艳台
-http://18.svi-studio.com:8880/live/908957700097/132663288386/1.m3u8
+
